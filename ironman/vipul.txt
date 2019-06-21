@@ -1,1 +1,0 @@
-hello everyone, welcome to the devops training class.
